@@ -2,12 +2,10 @@ import java.util.Scanner;
 
 /**
  * Simple Library Management System
- * Author: Abdulrahman Jihad Shunnar
- * University ID: 120255681
- * Supervisor: Eng. Fawzi Faraj Abdelal
- * Course: Java Programming – Final Project
+ * Author: Abdulrahman Shunnar
+ * Course: Java Programming – Simple Library Management System Project
  */
-public class SimpleLibrary_120255681 {
+public class LibraryManagementSystem {
 
     // Arrays to store books and their status
     static String[] books = new String[20];
@@ -184,12 +182,11 @@ public class SimpleLibrary_120255681 {
     // About the library
     public static void aboutLibrary() {
         System.out.println("\n--- About the Library ---");
-        System.out.println("University: UCAS – Computer Engineering Faculty");
-        System.out.println("Diploma: Information Security");
+        System.out.println("Computer Engineering Faculty");
+        System.out.println("Information Security");
         System.out.println("Project: Simple Library Management System");
-        System.out.println("Author: Abdulrahman Jihad Shunnar (ID: 120255681)");
-        System.out.println("Supervisor: Eng. Fawzi Faraj Abdelal");
-        System.out.println("Course: Java Programming – Final Project");
+        System.out.println("Author: Abdulrahman Shunnar");
+        System.out.println("Course: Java Programming – Simple Library Management System Project");
         System.out.println("Features: Arrays, if/else, Methods, Scanner");
     }
 
