@@ -46,17 +46,16 @@ This project was developed as a final assignment for the Java Programming course
 9. Exit.
 
 ---
+
 📂 Project Structure
 SimpleLibraryManagementSystem/
 │
 ├── src/
-│   └── SimpleLibrary_120255681.java   # Main Java source code
+│   └── LibraryManagementSystem.java   # Main Java source code
 │
 ├── README.md                          # Project description, features, usage instructions
-├── LICENSE                            # License file (e.g., MIT License)
-├── .gitignore                         # Ignore unnecessary files (e.g., *.class, IDE configs)
-└── docs/
-    └── screenshots/                   # Terminal screenshots or documentation images
+├── LICENSE                            # License file (MIT License)
+├── .gitignore                         # Ignore unnecessary files (class, IDE configs)
 
 ---
 
